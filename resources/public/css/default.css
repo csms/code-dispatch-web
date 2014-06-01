@@ -1,0 +1,103 @@
+/*
+body {
+    font-family: Arial, Helvetica, Verdana, Sans-serif;
+    font-size: 12px;
+    color: #666666;
+    background: #ffffff;
+}
+
+.hidden {
+    display: none;
+}
+
+#page-container {
+    width: 1002px;
+    margin: auto;
+}
+
+#main-nav {
+    height: 50px;
+}
+
+#header {
+    margin: auto;
+    width: 480px;
+    height: 181px;
+    background: #db6d16
+    url(../img/logo_bookstore.jpg);
+}
+
+#teasers {
+    margin-right: 280px;
+}
+
+#toplist {
+    float: right;
+}
+
+.bookTitle {
+    font-size: 92.3%;
+    font-weight: bold;
+}
+
+.bookAuthor {
+    font-size: 92.3%;
+}
+
+.verticalList li {
+    display: block;
+    float: none;
+}
+
+.bookList li {
+    display: block;
+    float: left;
+}
+
+.red {
+    color: #ff6600;
+}
+
+.black {
+    color: #222222;
+}
+
+.bookItem {
+    width: 100px;
+    float: left;
+    padding: 20px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+#footer {
+    clear: both;
+    font-family: Tahoma, Arial, Helvetica, Sans-serif;
+    font-size: 10px;
+    color: #c9c9c9;
+    border-top: 1px solid #efefef;
+    padding: 13px 25px;
+    line-height: 18px;
+}
+
+#footer a {
+    color: #c9c9c9;
+    text-decoration: none;
+}
+
+#footer a:hover {
+    color: #db6d16;
+}
+
+#footer #altnav {
+    width: 350px;
+    float: right;
+    text-align: right;
+}
+*/
